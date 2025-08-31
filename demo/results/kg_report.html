@@ -1,0 +1,58 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Biomedical Knowledge Graph Report</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 40px; }
+                .header { text-align: center; color: #2C3E50; }
+                .section { margin: 30px 0; }
+                .stats-box { background: #ECF0F1; padding: 15px; border-radius: 5px; }
+                .entity-list { display: flex; flex-wrap: wrap; gap: 10px; }
+                .entity-tag { background: #3498DB; color: white; padding: 5px 10px; 
+                              border-radius: 15px; font-size: 12px; }
+                .microbe { background: #E74C3C; }
+                .metabolite { background: #27AE60; }
+                table { border-collapse: collapse; width: 100%; }
+                th, td { border: 1px solid #BDC3C7; padding: 8px; text-align: left; }
+                th { background-color: #34495E; color: white; }
+            </style>
+        </head>
+        <body>
+            <h1 class="header">Biomedical Knowledge Graph Report</h1>
+            
+            <div class="section">
+                <h2>Overview Statistics</h2>
+                <div class="stats-box">
+                    <p><strong>Total Entities:</strong> 198</p>
+                    <p><strong>Total Relations:</strong> 10</p>
+                    <p><strong>Graph Density:</strong> 0.0003</p>
+                    <p><strong>Average Degree:</strong> 0.1</p>
+                    <p><strong>Generated:</strong> 2025-09-01T05:40:18.212758</p>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Entity Type Distribution</h2>
+                <div class="stats-box">
+        <p><strong>Microbe:</strong> 183</p><p><strong>Metabolite:</strong> 15</p>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Top Entities</h2>
+                <div class="entity-list">
+        <span class="entity-tag microbe">bacteria ({'name': 'bacteria', 'type': 'microbe', 'properties': {'name': 'bacteria', 'entity_type': 'microbe', 'taxonomy': {'genus': 'bacteria'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.6}, 'pmids': ['demo_001', 'demo_003', 'demo_004', 'demo_005'], 'frequency': 4})</span><span class="entity-tag microbe">The gut ({'name': 'The gut', 'type': 'microbe', 'properties': {'name': 'The gut', 'entity_type': 'microbe', 'taxonomy': {'genus': 'The', 'species': 'gut'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001', 'demo_002'], 'frequency': 2})</span><span class="entity-tag microbe">These bacteria ({'name': 'These bacteria', 'type': 'microbe', 'properties': {'name': 'These bacteria', 'entity_type': 'microbe', 'taxonomy': {'genus': 'These', 'species': 'bacteria'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_003', 'demo_004'], 'frequency': 2})</span><span class="entity-tag microbe">The metabolic ({'name': 'The metabolic', 'type': 'microbe', 'properties': {'name': 'The metabolic', 'entity_type': 'microbe', 'taxonomy': {'genus': 'The', 'species': 'metabolic'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_003', 'demo_004'], 'frequency': 2})</span><span class="entity-tag microbe">chain fatty ({'name': 'chain fatty', 'type': 'microbe', 'properties': {'name': 'chain fatty', 'entity_type': 'microbe', 'taxonomy': {'genus': 'chain', 'species': 'fatty'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_003', 'demo_004'], 'frequency': 2})</span><span class="entity-tag metabolite">short-chain ({'name': 'short-chain', 'type': 'metabolite', 'properties': {'name': 'short-chain', 'entity_type': 'metabolite', 'taxonomy': None, 'source': None, 'chemical_properties': {'category': 'unknown_bioactive'}, 'confidence_score': 0.6}, 'pmids': ['demo_003', 'demo_004'], 'frequency': 2})</span><span class="entity-tag microbe">Gut microbiota ({'name': 'Gut microbiota', 'type': 'microbe', 'properties': {'name': 'Gut microbiota', 'entity_type': 'microbe', 'taxonomy': {'genus': 'Gut', 'species': 'microbiota'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">cholesterol metabolism ({'name': 'cholesterol metabolism', 'type': 'microbe', 'properties': {'name': 'cholesterol metabolism', 'entity_type': 'microbe', 'taxonomy': {'genus': 'cholesterol', 'species': 'metabolism'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">and cardiovascular ({'name': 'and cardiovascular', 'type': 'microbe', 'properties': {'name': 'and cardiovascular', 'entity_type': 'microbe', 'taxonomy': {'genus': 'and', 'species': 'cardiovascular'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">microbiota plays ({'name': 'microbiota plays', 'type': 'microbe', 'properties': {'name': 'microbiota plays', 'entity_type': 'microbe', 'taxonomy': {'genus': 'microbiota', 'species': 'plays'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">crucial roles ({'name': 'crucial roles', 'type': 'microbe', 'properties': {'name': 'crucial roles', 'entity_type': 'microbe', 'taxonomy': {'genus': 'crucial', 'species': 'roles'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">in cholesterol ({'name': 'in cholesterol', 'type': 'microbe', 'properties': {'name': 'in cholesterol', 'entity_type': 'microbe', 'taxonomy': {'genus': 'in', 'species': 'cholesterol'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">metabolism and ({'name': 'metabolism and', 'type': 'microbe', 'properties': {'name': 'metabolism and', 'entity_type': 'microbe', 'taxonomy': {'genus': 'metabolism', 'species': 'and'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">cardiovascular health ({'name': 'cardiovascular health', 'type': 'microbe', 'properties': {'name': 'cardiovascular health', 'entity_type': 'microbe', 'taxonomy': {'genus': 'cardiovascular', 'species': 'health'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">Species from ({'name': 'Species from', 'type': 'microbe', 'properties': {'name': 'Species from', 'entity_type': 'microbe', 'taxonomy': {'genus': 'Species', 'species': 'from'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">the Oscillibacter ({'name': 'the Oscillibacter', 'type': 'microbe', 'properties': {'name': 'the Oscillibacter', 'entity_type': 'microbe', 'taxonomy': {'genus': 'the', 'species': 'Oscillibacter'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">genus were ({'name': 'genus were', 'type': 'microbe', 'properties': {'name': 'genus were', 'entity_type': 'microbe', 'taxonomy': {'genus': 'genus', 'species': 'were'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">associated with ({'name': 'associated with', 'type': 'microbe', 'properties': {'name': 'associated with', 'entity_type': 'microbe', 'taxonomy': {'genus': 'associated', 'species': 'with'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">decreased fecal ({'name': 'decreased fecal', 'type': 'microbe', 'properties': {'name': 'decreased fecal', 'entity_type': 'microbe', 'taxonomy': {'genus': 'decreased', 'species': 'fecal'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span><span class="entity-tag microbe">and plasma ({'name': 'and plasma', 'type': 'microbe', 'properties': {'name': 'and plasma', 'entity_type': 'microbe', 'taxonomy': {'genus': 'and', 'species': 'plasma'}, 'source': {'body_part': 'gut'}, 'chemical_properties': None, 'confidence_score': 0.9}, 'pmids': ['demo_001'], 'frequency': 1})</span>
+                </div>
+            </div>
+            
+            <div class="section">
+                <h2>Relation Types</h2>
+                <table>
+                    <tr><th>Predicate</th><th>Count</th></tr>
+        <tr><td>produces</td><td>12</td></tr><tr><td>utilizes</td><td>4</td></tr><tr><td>associates_with</td><td>2</td></tr><tr><td>converts</td><td>2</td></tr>
+                </table>
+            </div>
+        </body>
+        </html>
+        

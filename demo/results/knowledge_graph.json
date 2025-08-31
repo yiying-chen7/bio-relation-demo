@@ -1,0 +1,4301 @@
+{
+  "entities": {
+    "Gut microbiota": {
+      "name": "Gut microbiota",
+      "type": "microbe",
+      "properties": {
+        "name": "Gut microbiota",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Gut",
+          "species": "microbiota"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "cholesterol metabolism": {
+      "name": "cholesterol metabolism",
+      "type": "microbe",
+      "properties": {
+        "name": "cholesterol metabolism",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "cholesterol",
+          "species": "metabolism"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "and cardiovascular": {
+      "name": "and cardiovascular",
+      "type": "microbe",
+      "properties": {
+        "name": "and cardiovascular",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "cardiovascular"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "The gut": {
+      "name": "The gut",
+      "type": "microbe",
+      "properties": {
+        "name": "The gut",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "The",
+          "species": "gut"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001",
+        "demo_002"
+      ],
+      "frequency": 2
+    },
+    "microbiota plays": {
+      "name": "microbiota plays",
+      "type": "microbe",
+      "properties": {
+        "name": "microbiota plays",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "microbiota",
+          "species": "plays"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "crucial roles": {
+      "name": "crucial roles",
+      "type": "microbe",
+      "properties": {
+        "name": "crucial roles",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "crucial",
+          "species": "roles"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "in cholesterol": {
+      "name": "in cholesterol",
+      "type": "microbe",
+      "properties": {
+        "name": "in cholesterol",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "in",
+          "species": "cholesterol"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "metabolism and": {
+      "name": "metabolism and",
+      "type": "microbe",
+      "properties": {
+        "name": "metabolism and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "metabolism",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "cardiovascular health": {
+      "name": "cardiovascular health",
+      "type": "microbe",
+      "properties": {
+        "name": "cardiovascular health",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "cardiovascular",
+          "species": "health"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "Species from": {
+      "name": "Species from",
+      "type": "microbe",
+      "properties": {
+        "name": "Species from",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Species",
+          "species": "from"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "the Oscillibacter": {
+      "name": "the Oscillibacter",
+      "type": "microbe",
+      "properties": {
+        "name": "the Oscillibacter",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "the",
+          "species": "Oscillibacter"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "genus were": {
+      "name": "genus were",
+      "type": "microbe",
+      "properties": {
+        "name": "genus were",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "genus",
+          "species": "were"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "associated with": {
+      "name": "associated with",
+      "type": "microbe",
+      "properties": {
+        "name": "associated with",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "associated",
+          "species": "with"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "decreased fecal": {
+      "name": "decreased fecal",
+      "type": "microbe",
+      "properties": {
+        "name": "decreased fecal",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "decreased",
+          "species": "fecal"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "and plasma": {
+      "name": "and plasma",
+      "type": "microbe",
+      "properties": {
+        "name": "and plasma",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "plasma"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "cholesterol levels": {
+      "name": "cholesterol levels",
+      "type": "microbe",
+      "properties": {
+        "name": "cholesterol levels",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "cholesterol",
+          "species": "levels"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "Using functional": {
+      "name": "Using functional",
+      "type": "microbe",
+      "properties": {
+        "name": "Using functional",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Using",
+          "species": "functional"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "prediction and": {
+      "name": "prediction and",
+      "type": "microbe",
+      "properties": {
+        "name": "prediction and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "prediction",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "in vitro": {
+      "name": "in vitro",
+      "type": "microbe",
+      "properties": {
+        "name": "in vitro",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "in",
+          "species": "vitro"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "characterization of": {
+      "name": "characterization of",
+      "type": "microbe",
+      "properties": {
+        "name": "characterization of",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "characterization",
+          "species": "of"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "multiple representative": {
+      "name": "multiple representative",
+      "type": "microbe",
+      "properties": {
+        "name": "multiple representative",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "multiple",
+          "species": "representative"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "human gut": {
+      "name": "human gut",
+      "type": "microbe",
+      "properties": {
+        "name": "human gut",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "human",
+          "species": "gut"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "Oscillibacter isolates": {
+      "name": "Oscillibacter isolates",
+      "type": "microbe",
+      "properties": {
+        "name": "Oscillibacter isolates",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Oscillibacter",
+          "species": "isolates"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "we uncovered": {
+      "name": "we uncovered",
+      "type": "microbe",
+      "properties": {
+        "name": "we uncovered",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "we",
+          "species": "uncovered"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "conserved cholesterol": {
+      "name": "conserved cholesterol",
+      "type": "microbe",
+      "properties": {
+        "name": "conserved cholesterol",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "conserved",
+          "species": "cholesterol"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "metabolizing capabilities": {
+      "name": "metabolizing capabilities",
+      "type": "microbe",
+      "properties": {
+        "name": "metabolizing capabilities",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "metabolizing",
+          "species": "capabilities"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "including glycosylation": {
+      "name": "including glycosylation",
+      "type": "microbe",
+      "properties": {
+        "name": "including glycosylation",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "including",
+          "species": "glycosylation"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "and dehydrogenation": {
+      "name": "and dehydrogenation",
+      "type": "microbe",
+      "properties": {
+        "name": "and dehydrogenation",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "dehydrogenation"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "These findings": {
+      "name": "These findings",
+      "type": "microbe",
+      "properties": {
+        "name": "These findings",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "These",
+          "species": "findings"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "suggest that": {
+      "name": "suggest that",
+      "type": "microbe",
+      "properties": {
+        "name": "suggest that",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "suggest",
+          "species": "that"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "Oscillibacter bacteria": {
+      "name": "Oscillibacter bacteria",
+      "type": "microbe",
+      "properties": {
+        "name": "Oscillibacter bacteria",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Oscillibacter",
+          "species": "bacteria"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "can convert": {
+      "name": "can convert",
+      "type": "microbe",
+      "properties": {
+        "name": "can convert",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "can",
+          "species": "convert"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "cholesterol into": {
+      "name": "cholesterol into",
+      "type": "microbe",
+      "properties": {
+        "name": "cholesterol into",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "cholesterol",
+          "species": "into"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "various metabolites": {
+      "name": "various metabolites",
+      "type": "microbe",
+      "properties": {
+        "name": "various metabolites",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "various",
+          "species": "metabolites"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "that may": {
+      "name": "that may",
+      "type": "microbe",
+      "properties": {
+        "name": "that may",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "that",
+          "species": "may"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "influence host": {
+      "name": "influence host",
+      "type": "microbe",
+      "properties": {
+        "name": "influence host",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "influence",
+          "species": "host"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "lipid profiles": {
+      "name": "lipid profiles",
+      "type": "microbe",
+      "properties": {
+        "name": "lipid profiles",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "lipid",
+          "species": "profiles"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "Oscillibacter": {
+      "name": "Oscillibacter",
+      "type": "microbe",
+      "properties": {
+        "name": "Oscillibacter",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Oscillibacter"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.8
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "bacteria": {
+      "name": "bacteria",
+      "type": "microbe",
+      "properties": {
+        "name": "bacteria",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "bacteria"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_001",
+        "demo_003",
+        "demo_004",
+        "demo_005"
+      ],
+      "frequency": 4
+    },
+    "cholesterol": {
+      "name": "cholesterol",
+      "type": "metabolite",
+      "properties": {
+        "name": "cholesterol",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "traditional_metabolite"
+        },
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "cholesterol-metabolizing": {
+      "name": "cholesterol-metabolizing",
+      "type": "metabolite",
+      "properties": {
+        "name": "cholesterol-metabolizing",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_001"
+      ],
+      "frequency": 1
+    },
+    "Clostridium sporogenes": {
+      "name": "Clostridium sporogenes",
+      "type": "microbe",
+      "properties": {
+        "name": "Clostridium sporogenes",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Clostridium",
+          "species": "sporogenes"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "aromatic amino": {
+      "name": "aromatic amino",
+      "type": "microbe",
+      "properties": {
+        "name": "aromatic amino",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "aromatic",
+          "species": "amino"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "acid metabolism": {
+      "name": "acid metabolism",
+      "type": "microbe",
+      "properties": {
+        "name": "acid metabolism",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "acid",
+          "species": "metabolism"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "bacterium Clostridium": {
+      "name": "bacterium Clostridium",
+      "type": "microbe",
+      "properties": {
+        "name": "bacterium Clostridium",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "bacterium",
+          "species": "Clostridium"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "sporogenes obtains": {
+      "name": "sporogenes obtains",
+      "type": "microbe",
+      "properties": {
+        "name": "sporogenes obtains",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "sporogenes",
+          "species": "obtains"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "its energy": {
+      "name": "its energy",
+      "type": "microbe",
+      "properties": {
+        "name": "its energy",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "its",
+          "species": "energy"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "by utilizing": {
+      "name": "by utilizing",
+      "type": "microbe",
+      "properties": {
+        "name": "by utilizing",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "by",
+          "species": "utilizing"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "amino acids": {
+      "name": "amino acids",
+      "type": "microbe",
+      "properties": {
+        "name": "amino acids",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "amino",
+          "species": "acids"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "in pairs": {
+      "name": "in pairs",
+      "type": "microbe",
+      "properties": {
+        "name": "in pairs",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "in",
+          "species": "pairs"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "coupling the": {
+      "name": "coupling the",
+      "type": "microbe",
+      "properties": {
+        "name": "coupling the",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "coupling",
+          "species": "the"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "oxidation of": {
+      "name": "oxidation of",
+      "type": "microbe",
+      "properties": {
+        "name": "oxidation of",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "oxidation",
+          "species": "of"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "one to": {
+      "name": "one to",
+      "type": "microbe",
+      "properties": {
+        "name": "one to",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "one",
+          "species": "to"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "the reduction": {
+      "name": "the reduction",
+      "type": "microbe",
+      "properties": {
+        "name": "the reduction",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "the",
+          "species": "reduction"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "of another": {
+      "name": "of another",
+      "type": "microbe",
+      "properties": {
+        "name": "of another",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "of",
+          "species": "another"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "through the": {
+      "name": "through the",
+      "type": "microbe",
+      "properties": {
+        "name": "through the",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "through",
+          "species": "the"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "Stickland reaction": {
+      "name": "Stickland reaction",
+      "type": "microbe",
+      "properties": {
+        "name": "Stickland reaction",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Stickland",
+          "species": "reaction"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "All three": {
+      "name": "All three",
+      "type": "microbe",
+      "properties": {
+        "name": "All three",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "All",
+          "species": "three"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "phenylalanine and": {
+      "name": "phenylalanine and",
+      "type": "microbe",
+      "properties": {
+        "name": "phenylalanine and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "phenylalanine",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "serve as": {
+      "name": "serve as",
+      "type": "microbe",
+      "properties": {
+        "name": "serve as",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "serve",
+          "species": "as"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "substrates for": {
+      "name": "substrates for",
+      "type": "microbe",
+      "properties": {
+        "name": "substrates for",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "substrates",
+          "species": "for"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "this metabolic": {
+      "name": "this metabolic",
+      "type": "microbe",
+      "properties": {
+        "name": "this metabolic",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "this",
+          "species": "metabolic"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "Our results": {
+      "name": "Our results",
+      "type": "microbe",
+      "properties": {
+        "name": "Our results",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Our",
+          "species": "results"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "reveal that": {
+      "name": "reveal that",
+      "type": "microbe",
+      "properties": {
+        "name": "reveal that",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "reveal",
+          "species": "that"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "this pathway": {
+      "name": "this pathway",
+      "type": "microbe",
+      "properties": {
+        "name": "this pathway",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "this",
+          "species": "pathway"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "produces twelve": {
+      "name": "produces twelve",
+      "type": "microbe",
+      "properties": {
+        "name": "produces twelve",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "produces",
+          "species": "twelve"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "nine of": {
+      "name": "nine of",
+      "type": "microbe",
+      "properties": {
+        "name": "nine of",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "nine",
+          "species": "of"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "which are": {
+      "name": "which are",
+      "type": "microbe",
+      "properties": {
+        "name": "which are",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "which",
+          "species": "are"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "known to": {
+      "name": "known to",
+      "type": "microbe",
+      "properties": {
+        "name": "known to",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "known",
+          "species": "to"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "accumulate in": {
+      "name": "accumulate in",
+      "type": "microbe",
+      "properties": {
+        "name": "accumulate in",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "accumulate",
+          "species": "in"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "host serum": {
+      "name": "host serum",
+      "type": "microbe",
+      "properties": {
+        "name": "host serum",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "host",
+          "species": "serum"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "These metabolites": {
+      "name": "These metabolites",
+      "type": "microbe",
+      "properties": {
+        "name": "These metabolites",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "These",
+          "species": "metabolites"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "include indole": {
+      "name": "include indole",
+      "type": "microbe",
+      "properties": {
+        "name": "include indole",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "include",
+          "species": "indole"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "derivatives from": {
+      "name": "derivatives from",
+      "type": "microbe",
+      "properties": {
+        "name": "derivatives from",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "derivatives",
+          "species": "from"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "tryptophan metabolism": {
+      "name": "tryptophan metabolism",
+      "type": "microbe",
+      "properties": {
+        "name": "tryptophan metabolism",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "tryptophan",
+          "species": "metabolism"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "and phenolic": {
+      "name": "and phenolic",
+      "type": "microbe",
+      "properties": {
+        "name": "and phenolic",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "phenolic"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "compounds from": {
+      "name": "compounds from",
+      "type": "microbe",
+      "properties": {
+        "name": "compounds from",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "compounds",
+          "species": "from"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "tyrosine degradation": {
+      "name": "tyrosine degradation",
+      "type": "microbe",
+      "properties": {
+        "name": "tyrosine degradation",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "tyrosine",
+          "species": "degradation"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "Clostridium": {
+      "name": "Clostridium",
+      "type": "microbe",
+      "properties": {
+        "name": "Clostridium",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Clostridium"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.8
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "amino acid": {
+      "name": "amino acid",
+      "type": "metabolite",
+      "properties": {
+        "name": "amino acid",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "traditional_metabolite"
+        },
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "tryptophan": {
+      "name": "tryptophan",
+      "type": "metabolite",
+      "properties": {
+        "name": "tryptophan",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "traditional_metabolite"
+        },
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "phenylalanine": {
+      "name": "phenylalanine",
+      "type": "metabolite",
+      "properties": {
+        "name": "phenylalanine",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "traditional_metabolite"
+        },
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "tyrosine": {
+      "name": "tyrosine",
+      "type": "metabolite",
+      "properties": {
+        "name": "tyrosine",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "traditional_metabolite"
+        },
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_002"
+      ],
+      "frequency": 1
+    },
+    "Bifidobacterium lactose": {
+      "name": "Bifidobacterium lactose",
+      "type": "microbe",
+      "properties": {
+        "name": "Bifidobacterium lactose",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bifidobacterium",
+          "species": "lactose"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "utilization and": {
+      "name": "utilization and",
+      "type": "microbe",
+      "properties": {
+        "name": "utilization and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "utilization",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "beneficial effects": {
+      "name": "beneficial effects",
+      "type": "microbe",
+      "properties": {
+        "name": "beneficial effects",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "beneficial",
+          "species": "effects"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "Bifidobacterium species": {
+      "name": "Bifidobacterium species",
+      "type": "microbe",
+      "properties": {
+        "name": "Bifidobacterium species",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bifidobacterium",
+          "species": "species"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "are prominent": {
+      "name": "are prominent",
+      "type": "microbe",
+      "properties": {
+        "name": "are prominent",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "are",
+          "species": "prominent"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "members of": {
+      "name": "members of",
+      "type": "microbe",
+      "properties": {
+        "name": "members of",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "members",
+          "species": "of"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "the human": {
+      "name": "the human",
+      "type": "microbe",
+      "properties": {
+        "name": "the human",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "the",
+          "species": "human"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "gut microbiota": {
+      "name": "gut microbiota",
+      "type": "microbe",
+      "properties": {
+        "name": "gut microbiota",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "gut",
+          "species": "microbiota"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "known for": {
+      "name": "known for",
+      "type": "microbe",
+      "properties": {
+        "name": "known for",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "known",
+          "species": "for"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "their beneficial": {
+      "name": "their beneficial",
+      "type": "microbe",
+      "properties": {
+        "name": "their beneficial",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "their",
+          "species": "beneficial"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "health effects": {
+      "name": "health effects",
+      "type": "microbe",
+      "properties": {
+        "name": "health effects",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "health",
+          "species": "effects"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "These bacteria": {
+      "name": "These bacteria",
+      "type": "microbe",
+      "properties": {
+        "name": "These bacteria",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "These",
+          "species": "bacteria"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003",
+        "demo_004"
+      ],
+      "frequency": 2
+    },
+    "efficiently utilize": {
+      "name": "efficiently utilize",
+      "type": "microbe",
+      "properties": {
+        "name": "efficiently utilize",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "efficiently",
+          "species": "utilize"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "lactose and": {
+      "name": "lactose and",
+      "type": "microbe",
+      "properties": {
+        "name": "lactose and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "lactose",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "other complex": {
+      "name": "other complex",
+      "type": "microbe",
+      "properties": {
+        "name": "other complex",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "other",
+          "species": "complex"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "carbohydrates through": {
+      "name": "carbohydrates through",
+      "type": "microbe",
+      "properties": {
+        "name": "carbohydrates through",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "carbohydrates",
+          "species": "through"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "specialized enzymatic": {
+      "name": "specialized enzymatic",
+      "type": "microbe",
+      "properties": {
+        "name": "specialized enzymatic",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "specialized",
+          "species": "enzymatic"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "The metabolic": {
+      "name": "The metabolic",
+      "type": "microbe",
+      "properties": {
+        "name": "The metabolic",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "The",
+          "species": "metabolic"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003",
+        "demo_004"
+      ],
+      "frequency": 2
+    },
+    "activity of": {
+      "name": "activity of",
+      "type": "microbe",
+      "properties": {
+        "name": "activity of",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "activity",
+          "species": "of"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "Bifidobacterium produces": {
+      "name": "Bifidobacterium produces",
+      "type": "microbe",
+      "properties": {
+        "name": "Bifidobacterium produces",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bifidobacterium",
+          "species": "produces"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "chain fatty": {
+      "name": "chain fatty",
+      "type": "microbe",
+      "properties": {
+        "name": "chain fatty",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "chain",
+          "species": "fatty"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003",
+        "demo_004"
+      ],
+      "frequency": 2
+    },
+    "particularly acetate": {
+      "name": "particularly acetate",
+      "type": "microbe",
+      "properties": {
+        "name": "particularly acetate",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "particularly",
+          "species": "acetate"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "and lactate": {
+      "name": "and lactate",
+      "type": "microbe",
+      "properties": {
+        "name": "and lactate",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "lactate"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "which contribute": {
+      "name": "which contribute",
+      "type": "microbe",
+      "properties": {
+        "name": "which contribute",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "which",
+          "species": "contribute"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "to maintaining": {
+      "name": "to maintaining",
+      "type": "microbe",
+      "properties": {
+        "name": "to maintaining",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "to",
+          "species": "maintaining"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "gut barrier": {
+      "name": "gut barrier",
+      "type": "microbe",
+      "properties": {
+        "name": "gut barrier",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "gut",
+          "species": "barrier"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "function and": {
+      "name": "function and",
+      "type": "microbe",
+      "properties": {
+        "name": "function and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "function",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "modulating immune": {
+      "name": "modulating immune",
+      "type": "microbe",
+      "properties": {
+        "name": "modulating immune",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "modulating",
+          "species": "immune"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "Bifidobacterium strains": {
+      "name": "Bifidobacterium strains",
+      "type": "microbe",
+      "properties": {
+        "name": "Bifidobacterium strains",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bifidobacterium",
+          "species": "strains"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "can synthesize": {
+      "name": "can synthesize",
+      "type": "microbe",
+      "properties": {
+        "name": "can synthesize",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "can",
+          "species": "synthesize"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "including folate": {
+      "name": "including folate",
+      "type": "microbe",
+      "properties": {
+        "name": "including folate",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "including",
+          "species": "folate"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "and vitamin": {
+      "name": "and vitamin",
+      "type": "microbe",
+      "properties": {
+        "name": "and vitamin",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "vitamin"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "supporting host": {
+      "name": "supporting host",
+      "type": "microbe",
+      "properties": {
+        "name": "supporting host",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "supporting",
+          "species": "host"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "nutritional status": {
+      "name": "nutritional status",
+      "type": "microbe",
+      "properties": {
+        "name": "nutritional status",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "nutritional",
+          "species": "status"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "Bifidobacterium": {
+      "name": "Bifidobacterium",
+      "type": "microbe",
+      "properties": {
+        "name": "Bifidobacterium",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bifidobacterium"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.8
+      },
+      "pmids": [
+        "demo_003"
+      ],
+      "frequency": 1
+    },
+    "short-chain": {
+      "name": "short-chain",
+      "type": "metabolite",
+      "properties": {
+        "name": "short-chain",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_003",
+        "demo_004"
+      ],
+      "frequency": 2
+    },
+    "Bacteroides fiber": {
+      "name": "Bacteroides fiber",
+      "type": "microbe",
+      "properties": {
+        "name": "Bacteroides fiber",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bacteroides",
+          "species": "fiber"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "degradation and": {
+      "name": "degradation and",
+      "type": "microbe",
+      "properties": {
+        "name": "degradation and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "degradation",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "butyrate production": {
+      "name": "butyrate production",
+      "type": "microbe",
+      "properties": {
+        "name": "butyrate production",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "butyrate",
+          "species": "production"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "Bacteroides species": {
+      "name": "Bacteroides species",
+      "type": "microbe",
+      "properties": {
+        "name": "Bacteroides species",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bacteroides",
+          "species": "species"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "are major": {
+      "name": "are major",
+      "type": "microbe",
+      "properties": {
+        "name": "are major",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "are",
+          "species": "major"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "degrading bacteria": {
+      "name": "degrading bacteria",
+      "type": "microbe",
+      "properties": {
+        "name": "degrading bacteria",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "degrading",
+          "species": "bacteria"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "in the": {
+      "name": "in the",
+      "type": "microbe",
+      "properties": {
+        "name": "in the",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "in",
+          "species": "the"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "human colon": {
+      "name": "human colon",
+      "type": "microbe",
+      "properties": {
+        "name": "human colon",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "human",
+          "species": "colon"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "possessing extensive": {
+      "name": "possessing extensive",
+      "type": "microbe",
+      "properties": {
+        "name": "possessing extensive",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "possessing",
+          "species": "extensive"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "active enzyme": {
+      "name": "active enzyme",
+      "type": "microbe",
+      "properties": {
+        "name": "active enzyme",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "active",
+          "species": "enzyme"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "break down": {
+      "name": "break down",
+      "type": "microbe",
+      "properties": {
+        "name": "break down",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "break",
+          "species": "down"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "complex dietary": {
+      "name": "complex dietary",
+      "type": "microbe",
+      "properties": {
+        "name": "complex dietary",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "complex",
+          "species": "dietary"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "fibers into": {
+      "name": "fibers into",
+      "type": "microbe",
+      "properties": {
+        "name": "fibers into",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "fibers",
+          "species": "into"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "simpler compounds": {
+      "name": "simpler compounds",
+      "type": "microbe",
+      "properties": {
+        "name": "simpler compounds",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "simpler",
+          "species": "compounds"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "with some": {
+      "name": "with some",
+      "type": "microbe",
+      "properties": {
+        "name": "with some",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "with",
+          "species": "some"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "strains capable": {
+      "name": "strains capable",
+      "type": "microbe",
+      "properties": {
+        "name": "strains capable",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "strains",
+          "species": "capable"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "of producing": {
+      "name": "of producing",
+      "type": "microbe",
+      "properties": {
+        "name": "of producing",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "of",
+          "species": "producing"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "key short": {
+      "name": "key short",
+      "type": "microbe",
+      "properties": {
+        "name": "key short",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "key",
+          "species": "short"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "Butyrate serves": {
+      "name": "Butyrate serves",
+      "type": "microbe",
+      "properties": {
+        "name": "Butyrate serves",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Butyrate",
+          "species": "serves"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "as the": {
+      "name": "as the",
+      "type": "microbe",
+      "properties": {
+        "name": "as the",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "as",
+          "species": "the"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "primary energy": {
+      "name": "primary energy",
+      "type": "microbe",
+      "properties": {
+        "name": "primary energy",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "primary",
+          "species": "energy"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "source for": {
+      "name": "source for",
+      "type": "microbe",
+      "properties": {
+        "name": "source for",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "source",
+          "species": "for"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "colonocytes and": {
+      "name": "colonocytes and",
+      "type": "microbe",
+      "properties": {
+        "name": "colonocytes and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "colonocytes",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "exhibits anti": {
+      "name": "exhibits anti",
+      "type": "microbe",
+      "properties": {
+        "name": "exhibits anti",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "exhibits",
+          "species": "anti"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "inflammatory properties": {
+      "name": "inflammatory properties",
+      "type": "microbe",
+      "properties": {
+        "name": "inflammatory properties",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "inflammatory",
+          "species": "properties"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "feeding between": {
+      "name": "feeding between",
+      "type": "microbe",
+      "properties": {
+        "name": "feeding between",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "feeding",
+          "species": "between"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "Bacteroides and": {
+      "name": "Bacteroides and",
+      "type": "microbe",
+      "properties": {
+        "name": "Bacteroides and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bacteroides",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "other gut": {
+      "name": "other gut",
+      "type": "microbe",
+      "properties": {
+        "name": "other gut",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "other",
+          "species": "gut"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "bacteria creates": {
+      "name": "bacteria creates",
+      "type": "microbe",
+      "properties": {
+        "name": "bacteria creates",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "bacteria",
+          "species": "creates"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "complex network": {
+      "name": "complex network",
+      "type": "microbe",
+      "properties": {
+        "name": "complex network",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "complex",
+          "species": "network"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "that influences": {
+      "name": "that influences",
+      "type": "microbe",
+      "properties": {
+        "name": "that influences",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "that",
+          "species": "influences"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "overall gut": {
+      "name": "overall gut",
+      "type": "microbe",
+      "properties": {
+        "name": "overall gut",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "overall",
+          "species": "gut"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "health and": {
+      "name": "health and",
+      "type": "microbe",
+      "properties": {
+        "name": "health and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "health",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "host metabolism": {
+      "name": "host metabolism",
+      "type": "microbe",
+      "properties": {
+        "name": "host metabolism",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "host",
+          "species": "metabolism"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "Bacteroides": {
+      "name": "Bacteroides",
+      "type": "microbe",
+      "properties": {
+        "name": "Bacteroides",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Bacteroides"
+        },
+        "source": {
+          "body_part": "gut"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.8
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "enzyme": {
+      "name": "enzyme",
+      "type": "metabolite",
+      "properties": {
+        "name": "enzyme",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "functional_biomolecule"
+        },
+        "confidence_score": 0.8
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "fiber-degrading": {
+      "name": "fiber-degrading",
+      "type": "metabolite",
+      "properties": {
+        "name": "fiber-degrading",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "carbohydrate-active": {
+      "name": "carbohydrate-active",
+      "type": "metabolite",
+      "properties": {
+        "name": "carbohydrate-active",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "anti-inflammatory": {
+      "name": "anti-inflammatory",
+      "type": "metabolite",
+      "properties": {
+        "name": "anti-inflammatory",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "cross-feeding": {
+      "name": "cross-feeding",
+      "type": "metabolite",
+      "properties": {
+        "name": "cross-feeding",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_004"
+      ],
+      "frequency": 1
+    },
+    "Probiotic Lactobacillus": {
+      "name": "Probiotic Lactobacillus",
+      "type": "microbe",
+      "properties": {
+        "name": "Probiotic Lactobacillus",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Probiotic",
+          "species": "Lactobacillus"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "acidophilus and": {
+      "name": "acidophilus and",
+      "type": "microbe",
+      "properties": {
+        "name": "acidophilus and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "acidophilus",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "immune modulation": {
+      "name": "immune modulation",
+      "type": "microbe",
+      "properties": {
+        "name": "immune modulation",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "immune",
+          "species": "modulation"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "Lactobacillus acidophilus": {
+      "name": "Lactobacillus acidophilus",
+      "type": "microbe",
+      "properties": {
+        "name": "Lactobacillus acidophilus",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "Lactobacillus",
+          "species": "acidophilus"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "is a": {
+      "name": "is a",
+      "type": "microbe",
+      "properties": {
+        "name": "is a",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "is",
+          "species": "a"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "studied probiotic": {
+      "name": "studied probiotic",
+      "type": "microbe",
+      "properties": {
+        "name": "studied probiotic",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "studied",
+          "species": "probiotic"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "bacterium that": {
+      "name": "bacterium that",
+      "type": "microbe",
+      "properties": {
+        "name": "bacterium that",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "bacterium",
+          "species": "that"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "produces various": {
+      "name": "produces various",
+      "type": "microbe",
+      "properties": {
+        "name": "produces various",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "produces",
+          "species": "various"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "bioactive compounds": {
+      "name": "bioactive compounds",
+      "type": "microbe",
+      "properties": {
+        "name": "bioactive compounds",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "bioactive",
+          "species": "compounds"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "with immunomodulatory": {
+      "name": "with immunomodulatory",
+      "type": "microbe",
+      "properties": {
+        "name": "with immunomodulatory",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "with",
+          "species": "immunomodulatory"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "This organism": {
+      "name": "This organism",
+      "type": "microbe",
+      "properties": {
+        "name": "This organism",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "This",
+          "species": "organism"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "ferments glucose": {
+      "name": "ferments glucose",
+      "type": "microbe",
+      "properties": {
+        "name": "ferments glucose",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "ferments",
+          "species": "glucose"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "and other": {
+      "name": "and other",
+      "type": "microbe",
+      "properties": {
+        "name": "and other",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "other"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "sugars to": {
+      "name": "sugars to",
+      "type": "microbe",
+      "properties": {
+        "name": "sugars to",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "sugars",
+          "species": "to"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "produce lactic": {
+      "name": "produce lactic",
+      "type": "microbe",
+      "properties": {
+        "name": "produce lactic",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "produce",
+          "species": "lactic"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "creating an": {
+      "name": "creating an",
+      "type": "microbe",
+      "properties": {
+        "name": "creating an",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "creating",
+          "species": "an"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "acidic environment": {
+      "name": "acidic environment",
+      "type": "microbe",
+      "properties": {
+        "name": "acidic environment",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "acidic",
+          "species": "environment"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "that inhibits": {
+      "name": "that inhibits",
+      "type": "microbe",
+      "properties": {
+        "name": "that inhibits",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "that",
+          "species": "inhibits"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "pathogenic bacteria": {
+      "name": "pathogenic bacteria",
+      "type": "microbe",
+      "properties": {
+        "name": "pathogenic bacteria",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "pathogenic",
+          "species": "bacteria"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "acidophilus also": {
+      "name": "acidophilus also",
+      "type": "microbe",
+      "properties": {
+        "name": "acidophilus also",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "acidophilus",
+          "species": "also"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "produces bacteriocins": {
+      "name": "produces bacteriocins",
+      "type": "microbe",
+      "properties": {
+        "name": "produces bacteriocins",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "produces",
+          "species": "bacteriocins"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "antimicrobial peptides": {
+      "name": "antimicrobial peptides",
+      "type": "microbe",
+      "properties": {
+        "name": "antimicrobial peptides",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "antimicrobial",
+          "species": "peptides"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "that specifically": {
+      "name": "that specifically",
+      "type": "microbe",
+      "properties": {
+        "name": "that specifically",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "that",
+          "species": "specifically"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "target harmful": {
+      "name": "target harmful",
+      "type": "microbe",
+      "properties": {
+        "name": "target harmful",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "target",
+          "species": "harmful"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "The strain": {
+      "name": "The strain",
+      "type": "microbe",
+      "properties": {
+        "name": "The strain",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "The",
+          "species": "strain"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "ability to": {
+      "name": "ability to",
+      "type": "microbe",
+      "properties": {
+        "name": "ability to",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "ability",
+          "species": "to"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "adhere to": {
+      "name": "adhere to",
+      "type": "microbe",
+      "properties": {
+        "name": "adhere to",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "adhere",
+          "species": "to"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "intestinal epithelial": {
+      "name": "intestinal epithelial",
+      "type": "microbe",
+      "properties": {
+        "name": "intestinal epithelial",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "intestinal",
+          "species": "epithelial"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "cells and": {
+      "name": "cells and",
+      "type": "microbe",
+      "properties": {
+        "name": "cells and",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "cells",
+          "species": "and"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "stimulate cytokine": {
+      "name": "stimulate cytokine",
+      "type": "microbe",
+      "properties": {
+        "name": "stimulate cytokine",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "stimulate",
+          "species": "cytokine"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "production contributes": {
+      "name": "production contributes",
+      "type": "microbe",
+      "properties": {
+        "name": "production contributes",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "production",
+          "species": "contributes"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "to enhanced": {
+      "name": "to enhanced",
+      "type": "microbe",
+      "properties": {
+        "name": "to enhanced",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "to",
+          "species": "enhanced"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "immune function": {
+      "name": "immune function",
+      "type": "microbe",
+      "properties": {
+        "name": "immune function",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "immune",
+          "species": "function"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "and resistance": {
+      "name": "and resistance",
+      "type": "microbe",
+      "properties": {
+        "name": "and resistance",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "and",
+          "species": "resistance"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "to infections": {
+      "name": "to infections",
+      "type": "microbe",
+      "properties": {
+        "name": "to infections",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "to",
+          "species": "infections"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "The": {
+      "name": "The",
+      "type": "microbe",
+      "properties": {
+        "name": "The",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "The"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.8
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "microorganisms": {
+      "name": "microorganisms",
+      "type": "microbe",
+      "properties": {
+        "name": "microorganisms",
+        "entity_type": "microbe",
+        "taxonomy": {
+          "genus": "microorganisms"
+        },
+        "source": {
+          "body_part": "not_specified"
+        },
+        "chemical_properties": null,
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "glucose": {
+      "name": "glucose",
+      "type": "metabolite",
+      "properties": {
+        "name": "glucose",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "traditional_metabolite"
+        },
+        "confidence_score": 0.9
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    },
+    "well-studied": {
+      "name": "well-studied",
+      "type": "metabolite",
+      "properties": {
+        "name": "well-studied",
+        "entity_type": "metabolite",
+        "taxonomy": null,
+        "source": null,
+        "chemical_properties": {
+          "category": "unknown_bioactive"
+        },
+        "confidence_score": 0.6
+      },
+      "pmids": [
+        "demo_005"
+      ],
+      "frequency": 1
+    }
+  },
+  "relations": [
+    {
+      "subject": "Species from",
+      "predicate": "associates_with",
+      "object": "decreased fecal",
+      "evidence": "Species from the Oscillibacter genus were associated with decreased fecal and plasma cholesterol levels",
+      "confidence": 0.7,
+      "pmid": "demo_001"
+    },
+    {
+      "subject": "These findings",
+      "predicate": "converts",
+      "object": "and cardiovascular",
+      "evidence": "These findings suggest that Oscillibacter bacteria can convert cholesterol into various metabolites that may influence host lipid profiles and cardiovascular risk",
+      "confidence": 0.8,
+      "pmid": "demo_001"
+    },
+    {
+      "subject": "Clostridium sporogenes",
+      "predicate": "utilizes",
+      "object": "amino acids",
+      "evidence": "The gut bacterium Clostridium sporogenes obtains its energy by utilizing amino acids in pairs, coupling the oxidation of one to the reduction of another through the Stickland reaction",
+      "confidence": 0.8,
+      "pmid": "demo_002"
+    },
+    {
+      "subject": "Our results",
+      "predicate": "produces",
+      "object": "nine of",
+      "evidence": "Our results reveal that this pathway produces twelve compounds, nine of which are known to accumulate in host serum",
+      "confidence": 0.8,
+      "pmid": "demo_002"
+    },
+    {
+      "subject": "These bacteria",
+      "predicate": "utilizes",
+      "object": "lactose and",
+      "evidence": "These bacteria efficiently utilize lactose and other complex carbohydrates through specialized enzymatic pathways",
+      "confidence": 0.8,
+      "pmid": "demo_003"
+    },
+    {
+      "subject": "The metabolic",
+      "predicate": "produces",
+      "object": "chain fatty",
+      "evidence": "The metabolic activity of Bifidobacterium produces short-chain fatty acids, particularly acetate and lactate, which contribute to maintaining gut barrier function and modulating immune responses",
+      "confidence": 0.8,
+      "pmid": "demo_003"
+    },
+    {
+      "subject": "These bacteria",
+      "predicate": "produces",
+      "object": "key short",
+      "evidence": "These bacteria break down complex dietary fibers into simpler compounds, with some strains capable of producing butyrate, a key short-chain fatty acid",
+      "confidence": 0.8,
+      "pmid": "demo_004"
+    },
+    {
+      "subject": "Lactobacillus acidophilus",
+      "predicate": "produces",
+      "object": "bioactive compounds",
+      "evidence": "Lactobacillus acidophilus is a well-studied probiotic bacterium that produces various bioactive compounds with immunomodulatory effects",
+      "confidence": 0.8,
+      "pmid": "demo_005"
+    },
+    {
+      "subject": "This organism",
+      "predicate": "produces",
+      "object": "creating an",
+      "evidence": "This organism ferments glucose and other sugars to produce lactic acid, creating an acidic environment that inhibits pathogenic bacteria",
+      "confidence": 0.8,
+      "pmid": "demo_005"
+    },
+    {
+      "subject": "acidophilus also",
+      "predicate": "produces",
+      "object": "antimicrobial peptides",
+      "evidence": "acidophilus also produces bacteriocins, antimicrobial peptides that specifically target harmful microorganisms",
+      "confidence": 0.8,
+      "pmid": "demo_005"
+    },
+    {
+      "subject": "Species from",
+      "predicate": "associates_with",
+      "object": "decreased fecal",
+      "evidence": "Species from the Oscillibacter genus were associated with decreased fecal and plasma cholesterol levels",
+      "confidence": 0.7,
+      "pmid": "demo_001"
+    },
+    {
+      "subject": "These findings",
+      "predicate": "converts",
+      "object": "and cardiovascular",
+      "evidence": "These findings suggest that Oscillibacter bacteria can convert cholesterol into various metabolites that may influence host lipid profiles and cardiovascular risk",
+      "confidence": 0.8,
+      "pmid": "demo_001"
+    },
+    {
+      "subject": "Clostridium sporogenes",
+      "predicate": "utilizes",
+      "object": "amino acids",
+      "evidence": "The gut bacterium Clostridium sporogenes obtains its energy by utilizing amino acids in pairs, coupling the oxidation of one to the reduction of another through the Stickland reaction",
+      "confidence": 0.8,
+      "pmid": "demo_002"
+    },
+    {
+      "subject": "Our results",
+      "predicate": "produces",
+      "object": "nine of",
+      "evidence": "Our results reveal that this pathway produces twelve compounds, nine of which are known to accumulate in host serum",
+      "confidence": 0.8,
+      "pmid": "demo_002"
+    },
+    {
+      "subject": "These bacteria",
+      "predicate": "utilizes",
+      "object": "lactose and",
+      "evidence": "These bacteria efficiently utilize lactose and other complex carbohydrates through specialized enzymatic pathways",
+      "confidence": 0.8,
+      "pmid": "demo_003"
+    },
+    {
+      "subject": "The metabolic",
+      "predicate": "produces",
+      "object": "chain fatty",
+      "evidence": "The metabolic activity of Bifidobacterium produces short-chain fatty acids, particularly acetate and lactate, which contribute to maintaining gut barrier function and modulating immune responses",
+      "confidence": 0.8,
+      "pmid": "demo_003"
+    },
+    {
+      "subject": "These bacteria",
+      "predicate": "produces",
+      "object": "key short",
+      "evidence": "These bacteria break down complex dietary fibers into simpler compounds, with some strains capable of producing butyrate, a key short-chain fatty acid",
+      "confidence": 0.8,
+      "pmid": "demo_004"
+    },
+    {
+      "subject": "Lactobacillus acidophilus",
+      "predicate": "produces",
+      "object": "bioactive compounds",
+      "evidence": "Lactobacillus acidophilus is a well-studied probiotic bacterium that produces various bioactive compounds with immunomodulatory effects",
+      "confidence": 0.8,
+      "pmid": "demo_005"
+    },
+    {
+      "subject": "This organism",
+      "predicate": "produces",
+      "object": "creating an",
+      "evidence": "This organism ferments glucose and other sugars to produce lactic acid, creating an acidic environment that inhibits pathogenic bacteria",
+      "confidence": 0.8,
+      "pmid": "demo_005"
+    },
+    {
+      "subject": "acidophilus also",
+      "predicate": "produces",
+      "object": "antimicrobial peptides",
+      "evidence": "acidophilus also produces bacteriocins, antimicrobial peptides that specifically target harmful microorganisms",
+      "confidence": 0.8,
+      "pmid": "demo_005"
+    }
+  ],
+  "statistics": {
+    "total_entities": 198,
+    "total_relations": 10,
+    "entity_types": {
+      "microbe": 183,
+      "metabolite": 15
+    },
+    "predicate_types": {
+      "associates_with": 1,
+      "converts": 1,
+      "utilizes": 2,
+      "produces": 6
+    },
+    "graph_density": 0.0003,
+    "avg_degree": 0.1,
+    "timestamp": "2025-09-01T05:40:18.212758"
+  },
+  "export_time": "2025-09-01T05:40:18.213195"
+}

@@ -1,0 +1,49 @@
+{
+  "summary": {
+    "total_evaluated": 5,
+    "entity_metrics": {
+      "avg_precision": 0.0482,
+      "avg_recall": 0.6,
+      "avg_f1": 0.0885
+    },
+    "relation_metrics": {
+      "avg_precision": 0.0,
+      "avg_recall": 0.0,
+      "avg_f1": 0.0
+    },
+    "overall_avg_score": 0.0354
+  },
+  "detailed_results": [
+    {
+      "pmid": "demo_002",
+      "entity_f1": 0.1702,
+      "relation_f1": 0.0,
+      "overall_score": 0.0681
+    },
+    {
+      "pmid": "demo_005",
+      "entity_f1": 0.0909,
+      "relation_f1": 0.0,
+      "overall_score": 0.0364
+    },
+    {
+      "pmid": "demo_004",
+      "entity_f1": 0.0417,
+      "relation_f1": 0.0,
+      "overall_score": 0.0167
+    },
+    {
+      "pmid": "demo_001",
+      "entity_f1": 0.093,
+      "relation_f1": 0.0,
+      "overall_score": 0.0372
+    },
+    {
+      "pmid": "demo_003",
+      "entity_f1": 0.0465,
+      "relation_f1": 0.0,
+      "overall_score": 0.0186
+    }
+  ],
+  "generated_at": "2025-09-01T05:40:20.975141"
+}
