@@ -106,8 +106,9 @@ latency_sec=1.23
 ## 🧭 目录导航
 
 - `demo/`：离线可运行的最小演示（抽取 → KG → 评测 → 可视化）  
-- `docs/prd.md`：需求、架构与分阶段交付规划  
-- `docs/crawler_performance.md`：爬虫性能与稳定性优化  
-- `reports/training_report.txt`：分类器训练与指标  
-- `reports/classification_report.txt`：大规模分类结果汇总
+- `./prd.md`：需求、架构与分阶段交付规划展示  
+- `demo/crawler_performance.md`：爬虫性能与稳定性优化方案展示 
+- `demo/training_report.txt`：分类器训练与指标结果  
+- `demo/classification_report.txt`：大规模分类结果汇总
+- 如需其他部分的代码或者流程展示，可在面试时应邀展示
 
