@@ -110,5 +110,4 @@ latency_sec=1.23
 - `demo/crawler_performance.md`：爬虫性能与稳定性优化方案展示 
 - `demo/training_report.txt`：分类器训练与指标结果  
 - `demo/classification_report.txt`：大规模分类结果汇总
-- 如需其他部分的代码或者流程展示，可在面试时应邀展示
 
